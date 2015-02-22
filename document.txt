@@ -1,5 +1,7 @@
 Simple text document
 with a few lines
-of text and a ytpo
+of text and a typo
 
 Done.
+
+There was a typo on the third line which I fixed :D
